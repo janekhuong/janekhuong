@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-## ✨ About Me
+# ✨ About Me
 
 💼 AI and Data Analytics Intern at BGIS  
 🎓 Bachelor of Computer Science - McGill University (Spring 2027 Graduation)  
@@ -21,7 +21,7 @@
 📈 Quantitative Finance  
 🚀 Space Exploration
 
-## 🧐 What I'm Up To
+# 🧐 What I'm Up To
 🔨 I'm currently...
 ```
 🎾 Creating predictive models for use in sports analytics
@@ -32,7 +32,7 @@
 
 ```
 
-## 🧰 Tech Stack & Skills
+# 🧰 Tech Stack & Skills
 
 **Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -55,7 +55,7 @@
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [Portfolio Website]()  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/janekhuong/)  
