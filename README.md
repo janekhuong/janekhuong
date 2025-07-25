@@ -5,6 +5,7 @@
     <img src="header-dark.gif" alt="Jane Khuong" width="600" height="150">
   </picture>
 </p>
+
 ## ✨ About Me
 
 💼 AI and Data Analytics Intern at BGIS  
