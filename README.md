@@ -1,21 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/janekhuong/janekhuong/main/header-dark.gif" alt="Jane Khuong animated SVG" width="800">
+  <picture>
+    <source srcset="header-dark.gif" media="(prefers-color-scheme: dark)">
+    <source srcset="header-light4.gif" media="(prefers-color-scheme: light)">
+    <img src="header-dark.gif" alt="Jane Khuong" width="800" height="120">
+  </picture>
 </p>
-<!--
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/janekhuong/janekhuong/main/header-dark.gif" alt="Jane Khuong animated SVG" width="800">
-</p>
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
