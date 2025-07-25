@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/janekhuong/janekhuong/main/header-light3.gif" alt="Jane Khuong animated SVG" width="800">
+  <img src="https://raw.githubusercontent.com/janekhuong/janekhuong/main/header-light4.gif" alt="Jane Khuong animated SVG" width="800">
 </p>
 <!--
-**janekhuong/janekhuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/janekhuong/janekhuong/main/header-dark.gif" alt="Jane Khuong animated SVG" width="800">
+</p>
+<!--
 
 Here are some ideas to get you started:
 
