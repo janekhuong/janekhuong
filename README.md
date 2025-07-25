@@ -1,4 +1,3 @@
-## Hi there 👋
 <p align="center">
   <img src="https://raw.githubusercontent.com/janekhuong/janekhuong/main/header-light3.gif" alt="Jane Khuong animated SVG" width="800">
 </p>
