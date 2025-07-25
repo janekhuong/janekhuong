@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/janekhuong/janekhuong/main/test-name.svg" alt="Jane Khuong animated SVG" width="300">
+  <img src="https://raw.githubusercontent.com/janekhuong/janekhuong/main/test.gif" alt="Jane Khuong animated SVG" width="300">
 </p>
 <!--
 **janekhuong/janekhuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
