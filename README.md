@@ -12,9 +12,6 @@
 🎓 Bachelor of Computer Science - McGill University (Spring 2027 Graduation)  
 📍 Montreal, Canada
 
-🎧 Currently listening to...   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=janek1708&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&interchange=true&bar_color=26cf20&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=janek1708&redirect=true)
-
 ## 👾 Areas of Interest
 - Machine Learning  
 - Game Simulation  
