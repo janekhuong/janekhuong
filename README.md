@@ -32,7 +32,7 @@
 
 ```
 
-# 🧰 Tech Stack & Skills
+# 🧰 Technical Skills
 
 **Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -62,7 +62,7 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:janekhuong05@gmail.com)
 
 
-Thanks for visiting! Here's a randomly generated joke (refresh for another one!): 
+Thanks for visiting! Here's a randomly generated joke (refresh for another one!) 
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Jokes Card" />
