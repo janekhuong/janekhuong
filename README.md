@@ -8,7 +8,7 @@
 
 # ✨ About Me
 
-💼 Summer 2026 AI and Data Analytics Intern at BGIS  
+💼 Summer 2026 AI and Data Analytics Intern at Brookfield Global Integrated Solutions  
 🎓 Bachelor of Computer Science - McGill University (Spring 2027 Graduation)  
 📍 Montreal, Canada
 
