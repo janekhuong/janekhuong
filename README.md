@@ -13,10 +13,10 @@
 📍 Montreal, Canada
 
 ## 👾 Areas of Interest
-- Machine Learning  
-- Game Simulation  
-- Quantitative Finance  
-- Space Exploration
+- 🤖 Machine Learning  
+- 🎰 Game Simulation  
+- 🏦 Quantitative Finance  
+- 🛰️ Space Exploration
 
 # 🧐 What I'm Up To
 🔨 I'm currently...
