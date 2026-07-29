@@ -8,7 +8,7 @@
 
 # ✨ About Me
 
-💼 Summer 2026 AI and Data Analytics Intern at Brookfield Global Integrated Solutions  
+💼 Summer 2027 Software Engineering Intern at Citi
 🎓 Bachelor of Computer Science - McGill University (Class of 2027)  
 📍 Montreal, Canada
 
