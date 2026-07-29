@@ -8,7 +8,7 @@
 
 # ✨ About Me
 
-💼 Summer 2027 Software Engineering Intern at Citi
+💼 Summer 2027 Software Engineering Intern at Citi  
 🎓 Bachelor of Computer Science - McGill University (Class of 2027)  
 📍 Montreal, Canada
 
@@ -54,8 +54,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 # 🌐 Connect With Me
-
-[Portfolio Website]()  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/janekhuong/)  
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:janekhuong05@gmail.com)
 
