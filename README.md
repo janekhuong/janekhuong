@@ -8,7 +8,7 @@
 
 # ✨ About Me
 
-💼 Summer 2027 Software Engineering Intern at Citi  
+💼 Software Developer Intern at SAP  
 🎓 Bachelor of Computer Science - McGill University (Class of 2027)  
 📍 Montreal, Canada
 
